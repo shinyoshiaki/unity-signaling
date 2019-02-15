@@ -1,0 +1,3 @@
+UnityのWindows向けWebRTCネイティブモジュールを使った単純なシグナリングのサンプル。
+Plugins/に↓のdllを配置して使ってください。
+https://drive.google.com/open?id=1g2QH4ufMwZfDlgEj58Cd6AeItOLoq6Qq
